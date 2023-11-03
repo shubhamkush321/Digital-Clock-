@@ -1,9 +1,9 @@
 # Digital Clock
 
 Using Technology
->Html
->Css
->JavaScript
+# >Html
+# >Css
+# >JavaScript
 
 # Author
 Name:Shubham
