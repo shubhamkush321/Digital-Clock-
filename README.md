@@ -1,6 +1,7 @@
 # Digital Clock
 Real Time clock
-Using Technology
+
+# Using Technology
 # >Html
 # >Css
 # >JavaScript
